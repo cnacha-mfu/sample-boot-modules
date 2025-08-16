@@ -23,11 +23,11 @@
 	</properties>
 
     <dependencies>
-        <dependency>
+        <!-- <dependency>
             <groupId>th.mfu</groupId>
             <artifactId>web-front</artifactId>
             <version>${project.version}</version>
-        </dependency>
+        </dependency> -->
         <dependency>
             <groupId>th.mfu</groupId>
             <artifactId>domain-model</artifactId>
